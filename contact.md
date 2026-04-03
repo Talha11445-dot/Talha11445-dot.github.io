@@ -3,8 +3,6 @@ layout: page
 title: Contact Us
 ---
 
-# Contact Me
-
 If you would like to connect, collaborate, or follow my fitness and 
 learning journey, you can reach me through the details below.
 
