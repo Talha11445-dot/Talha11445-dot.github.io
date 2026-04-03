@@ -1,28 +1,38 @@
 ---
 layout: page
-title: Contact Us 
+title: Contact Us
 ---
 
 # Contact Me
 
-Feel free to reach out!
- 
-## Personal Info
-- 📍 Location: Faisalabad, Pakistan
-- 🎓 University: [UET LAHORE ]
-- 📚 Degree: BS Computer Engineering
-- 🎯 Year: [1st year]
+If you would like to connect, collaborate, or follow my fitness and 
+learning journey, you can reach me through the details below.
 
-## Interests
-- 🏋️ Fitness & Gym
-- ⚽ Football
-- 🏃 Running
-- 💻 Programming
+> "Open to learning, collaboration, and new opportunities."
 
-## Availability
-- ✅ Open for fitness tips & advice
-- ✅ Open for collaborations
-- ✅ Open for study group discussions
+### GitHub
+[github.com/Talha11445-dot](https://github.com/Talha11445-dot)
 
-## Quote
-> "Take care of your body, it's the only place you have to live!"
+### Portfolio
+[talha11445-dot.github.io](https://talha11445-dot.github.io)
+
+### Location
+Faisalabad, Pakistan
+
+### University
+UET Lahore — BS Computer Engineering
+
+### Degree
+BS Computer Engineering — 1st Year, 2nd Semester
+
+### Interests
+Fitness, Gym, Badminton, Football, Running, Programming
+
+### Languages
+Urdu, Punjabi, English
+
+### Availability
+Open for fitness tips, study collaborations and discussions
+
+### Phone
+Available on request
