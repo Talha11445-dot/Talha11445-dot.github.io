@@ -25,8 +25,6 @@ I run **1 mile every day** to keep myself fit and active!
 - 📏 Distance: 1 mile daily
 - ⏱️ Target time: Under 8 minutes
 
-
-
 > "Run when you can, walk if you have to, 
 > crawl if you must, just never give up!"
 
