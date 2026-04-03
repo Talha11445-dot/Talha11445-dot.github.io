@@ -14,13 +14,13 @@ I started going to the gym 3 months ago.
 ## Why I Started
 I wanted to get fit and feel more energetic every day.
 
-![Push ups](https://images.unsplash.com/photo-1598971639058-fab3c3109a00?w=800)
+![Badminton](https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800)
 
 ## My Workout Routine
 - Monday: Chest & Triceps
 - Wednesday: Back & Biceps
 - Friday: Legs & Shoulders
 
-![Football](https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800)
+![Bicep Curl](https://images.unsplash.com/photo-1583454155184-870a1f63aebc?w=800)
 
 Stay tuned for more posts! 💪
