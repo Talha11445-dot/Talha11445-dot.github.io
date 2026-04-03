@@ -21,6 +21,7 @@ I wanted to get fit and feel more energetic every day.
 - Wednesday: Back & Biceps
 - Friday: Legs & Shoulders
 
-![Calf Raises](https://images.unsplash.com/photo-1566241142559-40e1dab266c6?w=800)
+![Barbell Row](https://images.unsplash.com/photo-1534787238916-9ba6764efd4f?w=800)
+
 
 Stay tuned for more posts! 💪
