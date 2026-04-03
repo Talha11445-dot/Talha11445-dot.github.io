@@ -17,9 +17,9 @@ I wanted to get fit and feel more energetic every day.
 ![Badminton](https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800)
 
 ## My Workout Routine
-- Monday: Chest & Triceps
-- Wednesday: Back & Biceps
-- Friday: Legs & Shoulders
+- Monday: cycling
+- Wednesday: playing Badminton
+- Friday: running and exercise
 
 ![Barbell Row](https://images.unsplash.com/photo-1534787238916-9ba6764efd4f?w=800)
 
