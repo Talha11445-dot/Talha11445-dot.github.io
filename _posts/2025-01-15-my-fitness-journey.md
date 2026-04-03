@@ -6,7 +6,7 @@ date: 2025-01-15
 
 # My Fitness Journey! 🏋️
 
-![Running](https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800)
+![Running Man](https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=800)
 
 This is my first blog post about my fitness journey.
 I started going to the gym 3 months ago.
@@ -21,7 +21,7 @@ I wanted to get fit and feel more energetic every day.
 - Wednesday: Back & Biceps
 - Friday: Legs & Shoulders
 
-![Heavy Squat](https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800)
+![Front Squat](https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800)
 
 
 Stay tuned for more posts! 💪
