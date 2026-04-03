@@ -21,6 +21,6 @@ I wanted to get fit and feel more energetic every day.
 - Wednesday: Back & Biceps
 - Friday: Legs & Shoulders
 
-![Back Squat](https://images.unsplash.com/photo-1566241142559-40e1dab266c6?w=800)
+![Squat Rack](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800)
 
 Stay tuned for more posts! 💪
