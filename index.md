@@ -7,7 +7,7 @@ title: "Muhammad Talha - Fitness and Engineering"
 
 I am Muhammad Talha, a Computer Engineering student from Faisalabad, Pakistan. 
 I am passionate about sports, fitness, and living a healthy lifestyle. 
-My journey towards fitness started when I realized that a healthy body 
+My journey towards fitness started when I realized that a healthy body   
 leads to a healthy mind.
 
 ## My Current Goals 🎯
