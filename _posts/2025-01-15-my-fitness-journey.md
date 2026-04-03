@@ -6,7 +6,7 @@ date: 2025-01-15
 
 # My Fitness Journey! 🏋️
 
-![Sprint](https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=800)
+![Track](https://images.unsplash.com/photo-1513593771513-7b58b6c4af38?w=800)
 
 This is my first blog post about my fitness journey.
 I started going to the gym 3 months ago.
