@@ -7,6 +7,27 @@ title: Contact Us
 
 Feel free to reach out!
 
-- 📧 Email: talha@email.com
-- 📸 Instagram: @talha_fits
-- 🐙 GitHub: Talha11445-dot
+## Personal Info
+- 📍 Location: Faisalabad, Pakistan
+- 🎓 University: [UET LAHORE ]
+- 📚 Degree: BS Computer Engineering
+- 🎯 Year: [1st year]
+
+## Interests
+- 🏋️ Fitness & Gym
+- ⚽ Football
+- 🏃 Running
+- 💻 Programming
+
+## Professional
+- 🐙 GitHub: [Talha11445-dot](https://github.com/Talha11445-dot)
+- 💼 LinkedIn: [agar hai toh]
+- 🌐 Blog: talha11445-dot.github.io
+
+## Availability
+- ✅ Open for fitness tips & advice
+- ✅ Open for collaborations
+- ✅ Open for study group discussions
+
+## Quote
+> "Take care of your body, it's the only place you have to live!"
