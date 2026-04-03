@@ -3,9 +3,13 @@ layout: page
 title: ""
 ---
 
-# Muhammad Talha
+# Talha's Fitness World 💪
 
-Computer Engineering Student at UET Faisalabad
+**Name:** Talha
+**Location:** Pakistan
+**Passion:** Sports & Fitness
 
-- Email: talhajigri@gmail.com
-- GitHub: [Talha11445-dot](https://github.com/Talha11445-dot)
+Welcome to my personal fitness blog! I share my workout experiences,
+fitness tips, and sports journey here.
+
+> "Take care of your body. It's the only place you have to live."
