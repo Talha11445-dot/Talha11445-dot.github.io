@@ -21,5 +21,6 @@ I wanted to get fit and feel more energetic every day.
 - Wednesday: Back & Biceps
 - Friday: Legs & Shoulders
 
-![Tricep Dips](https://images.unsplash.com/photo-1598266663439-2056e6900339?w=800)
+![Calf Raises](https://images.unsplash.com/photo-1566241142559-40e1dab266c6?w=800)
+
 Stay tuned for more posts! 💪
