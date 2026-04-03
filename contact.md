@@ -19,11 +19,6 @@ Feel free to reach out!
 - 🏃 Running
 - 💻 Programming
 
-## Professional
-- 🐙 GitHub: [Talha11445-dot](https://github.com/Talha11445-dot)
-- 💼 LinkedIn: [agar hai toh]
-- 🌐 Blog: talha11445-dot.github.io 
-
 ## Availability
 - ✅ Open for fitness tips & advice
 - ✅ Open for collaborations
