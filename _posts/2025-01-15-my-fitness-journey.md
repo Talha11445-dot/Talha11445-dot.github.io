@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Fitness Journey Begins!"
-date: 2025-01-15
+date: 2026-03-04
 --- 
 
 # My Fitness Journey! 🏋️
@@ -23,17 +23,15 @@ I run **1 mile every day** to keep myself fit and active!
 - 🌅 Time: Early morning
 - 📍 Place: Near my home
 - 📏 Distance: 1 mile daily
-- ⏱️ Target time: Under 10 minutes
+- ⏱️ Target time: Under 8 minutes
 
-![Sprint](https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800)
+
 
 > "Run when you can, walk if you have to, 
 > crawl if you must, just never give up!"
 
 ## Why I Started
 I wanted to get fit and feel more energetic every day.
-
-![Badminton](https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800)
 
 ## My Favourite Sport — Badminton 🏸
 
@@ -61,8 +59,6 @@ with my friends and it keeps me active and sharp.
 - ⏱️ Sessions per week: 2-3 times
 - 🎯 Favourite shot: Smash
 - 🏆 Best achievement: [At street level]
-
-![Badminton Smash](https://images.unsplash.com/photo-1599474924187-334a4ae5bd5c?w=800)
 
 > "Badminton is not just a game, 
 > it's a lifestyle!" 🏸
