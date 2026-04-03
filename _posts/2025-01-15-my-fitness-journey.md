@@ -21,7 +21,6 @@ I wanted to get fit and feel more energetic every day.
 - Wednesday: Back & Biceps
 - Friday: Legs & Shoulders
 
-![Clean Jerk](https://images.unsplash.com/photo-1571731956672-f2b94d7dd0cb?w=800)
-
+![Military Press](https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=800)
 
 Stay tuned for more posts! 💪
