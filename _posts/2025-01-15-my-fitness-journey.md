@@ -3,7 +3,7 @@ layout: post
 title: "My Fitness Journey Begins!"
 date: 2026-03-04
 --- 
-
+ 
 # My Fitness Journey! 🏋️
 This is my first blog post about my fitness journey.
 
