@@ -1,6 +1,6 @@
 ---
 layout: page
-title:"Muhammad Talha — Fitness & Engineering""
+title:"Muhammad Talha — Fitness & Engineering"" 
 ---
 
 # CE Student & Fitness Enthusiast 💪
