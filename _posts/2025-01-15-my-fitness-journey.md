@@ -9,7 +9,28 @@ date: 2025-01-15
 ![Track](https://images.unsplash.com/photo-1513593771513-7b58b6c4af38?w=800)
 
 This is my first blog post about my fitness journey.
-I started going to the gym 3 months ago.
+## My Daily Running 🏃
+
+I run **1 mile every day** to keep myself fit and active!
+
+![Running](https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=800)
+
+### Benefits I Feel:
+- ✅ More energy throughout the day
+- ✅ Better stamina in gym
+- ✅ Improved mental health
+- ✅ Better sleep at night
+
+### My Running Schedule:
+- 🌅 Time: Early morning
+- 📍 Place: Near my home
+- 📏 Distance: 1 mile daily
+- ⏱️ Target time: Under 10 minutes
+
+![Sprint](https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800)
+
+> "Run when you can, walk if you have to, 
+> crawl if you must, just never give up!"
 
 ## Why I Started
 I wanted to get fit and feel more energetic every day.
