@@ -14,14 +14,12 @@ and living a healthy and active lifestyle.
 
 ## 🎓 University Posts
 
-UET Faisalabad is one of the top engineering universities in Pakistan.
-I am studying Computer Engineering here and this section contains all
-my posts related to my academic journey, semester experiences, projects
+UET Faisalabad is one of the top engineering universities in Pakistan. 
+I am studying Computer Engineering here and this section contains all 
+my posts related to my academic journey, semester experiences, projects 
 and university life.
 
-![UET Faisalabad Campus](https://uetfsd.edu.pk/wp-content/uploads/2021/09/DSC_0049-scaled.jpg)
-
-![UET Campus](https://uetfsd.edu.pk/wp-content/uploads/2021/09/DSC_0062-scaled.jpg)
+![UET](https://images.unsplash.com/photo-1562774053-701939374585?w=800)
 
 <ul>
 {% for post in site.posts %}
@@ -37,6 +35,8 @@ and university life.
 
 In this section I share my fitness journey, workout routines, daily 
 running experiences and my love for Badminton and Football.
+
+![Sports](https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=800)
 
 <ul>
 {% for post in site.posts %}
