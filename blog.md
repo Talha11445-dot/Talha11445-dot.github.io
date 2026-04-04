@@ -10,6 +10,10 @@ experiences and personal growth stories. I am a Computer Engineering
 student at UET Faisalabad, passionate about learning, building projects 
 and living a healthy and active lifestyle.
 
+## 📂 Categories
+### 🎓 [University](/category/university/)
+### 🏃 [Sports](/category/sports/)
+
 ---
 
 ## 🎓 University Posts
@@ -36,10 +40,9 @@ and university life.
 Sports and fitness are an essential part of my daily life. I believe 
 that a healthy body leads to a healthy mind and better academic 
 performance. This section contains all my posts related to my fitness 
-journey, workout routines, running, badminton and overall healthy 
-lifestyle.
+journey, workout routines, running, badminton and overall healthy lifestyle.
 
-![Badminton](https://images.pexels.com/photos/3660204/pexels-photo-3660204.jpeg?w=800)
+![Fitness](https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?w=800)
 
 <ul>
 {% for post in site.posts %}
