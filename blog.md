@@ -11,8 +11,8 @@ student at UET Faisalabad, passionate about learning, building projects
 and living a healthy and active lifestyle.
 
 ## 📂 Categories
-### 🎓 [University](/category/university/)
-### 🏃 [Sports](/category/sports/)
+### 🎓 University
+### 🏃 Sports
 
 ---
 
