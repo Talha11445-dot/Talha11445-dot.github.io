@@ -33,4 +33,14 @@ comments:
 #  isso_domain: ""              # see https://isso-comments.de
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive
+  permalinks:
+    category: '/category/:name/'
