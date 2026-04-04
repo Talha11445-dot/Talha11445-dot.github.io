@@ -39,7 +39,7 @@ performance. This section contains all my posts related to my fitness
 journey, workout routines, running, badminton and overall healthy 
 lifestyle.
 
-![Badminton Player](https://images.unsplash.com/photo-1599474924187-334a4ae5bd5c?w=800)
+![Badminton](https://images.pexels.com/photos/3660204/pexels-photo-3660204.jpeg?w=800)
 
 <ul>
 {% for post in site.posts %}
