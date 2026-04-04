@@ -6,11 +6,20 @@ title: Blog
 # My Blog 📝
 
 Welcome to my blog where I share my university journey, fitness 
-experiences and personal growth stories.
+experiences and personal growth stories. I am a Computer Engineering 
+student at UET Faisalabad, passionate about learning, building projects 
+and living a healthy and active lifestyle.
 
 ---
 
 ## 🎓 University Posts
+
+UET Faisalabad is one of the top engineering universities in Pakistan. 
+I am studying Computer Engineering here and this section contains all 
+my posts related to my academic journey, semester experiences, projects 
+and university life.
+
+![UET Faisalabad](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxmKTNBkTBgFRkY_rR3mFBq_Z3WT4kYgkTw&s)
 
 <ul>
 {% for post in site.posts %}
@@ -23,6 +32,9 @@ experiences and personal growth stories.
 ---
 
 ## 🏃 Sports Posts
+
+In this section I share my fitness journey, workout routines, daily 
+running experiences and my love for Badminton and Football.
 
 <ul>
 {% for post in site.posts %}
