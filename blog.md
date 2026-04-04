@@ -31,12 +31,19 @@ and university life.
 
 ---
 
-## 🏃 Sports Posts
+## 🏃 Sports & Fitness Posts
 
-In this section I share my fitness journey, workout routines, daily 
-running experiences and my love for Badminton and Football.
+Sports and fitness are an essential part of my daily life. I believe 
+that a healthy body leads to a healthy mind and better academic 
+performance. This section contains all my posts related to my fitness 
+journey, workout routines, running, badminton and overall healthy 
+lifestyle.
 
-![Sports](https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=800)
+![Fitness](https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=800)
+
+![Running](https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=800)
+
+![Badminton](https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800)
 
 <ul>
 {% for post in site.posts %}
