@@ -1,0 +1,23 @@
+title: Talha's Computer Engineering Journey
+description: A semester of labs, projects, and lessons learned — Computer Engineering at UET Lahore (Faisalabad Campus)
+theme: minima
+markdown: kramdown
+
+# Minima theme settings
+minima:
+  skin: classic
+  social_links:
+    - { platform: github, user_url: "https://github.com/talha11445-dot" }
+
+# Show full post list on home page
+show_excerpts: true
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
+
+permalink: /:year/:month/:day/:title/
