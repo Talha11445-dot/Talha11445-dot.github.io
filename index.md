@@ -3,6 +3,10 @@ layout: home
 title: Home
 ---
 
+**[Home](/) · [About Me](/about/) · [Articles](/articles/) · [Contact](/contact/) · [Acknowledgements](/acknowledgements/)**
+
+---
+
 # Talha — Computer Engineering Journey
 
 **Talha** | Computer Engineering | UET Lahore (Faisalabad Campus)
