@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Home
+permalink: /
 ---
 
 **[Home](/) · [About Me](/about/) · [Articles](/articles/) · [Contact](/contact/) · [Acknowledgements](/acknowledgements/)**
