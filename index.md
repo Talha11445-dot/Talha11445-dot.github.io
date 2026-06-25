@@ -3,12 +3,24 @@ layout: home
 title: Home
 ---
 
-## About Me
+# Talha — Computer Engineering Journey
 
-Hi, I'm **Talha** — a 1st year Computer Engineering student at **UET Lahore (Faisalabad Campus)**. This site is my digital footprint as a student: a running record of the labs, projects, courses, and lessons that made up my first year, written as I lived through them rather than cleaned up in hindsight.
+**Talha** | Computer Engineering | UET Lahore (Faisalabad Campus)
 
-I'm particularly drawn to **AI/ML and databases**, and a good chunk of the posts here trace how that interest grew — starting from a Database Systems course I assumed would be "just theory," through hands-on projects with real datasets, and into my first real exposure to machine learning. Alongside that, you'll find posts on Object Oriented Programming labs, Digital Logic Design projects, Communication Skills assignments, and a few non-academic moments that were part of the semester too.
+Welcome to my digital portfolio, documenting my journey as a Computer Engineering student — labs, projects, lessons, and a few non-academic moments along the way.
 
-The idea behind this portfolio came from my Database Systems instructor, **Dr. Bilal Ahmad** (Professor, UET Lahore – Faisalabad Campus), who encouraged students to document their work publicly as they go. You can read more about him and his research on the [Acknowledgements](/acknowledgements/) page.
+---
 
-Browse the posts below to follow the semester roughly in order — from early labs in February through final exams in June.
+## Latest Articles
+
+Browse the [Articles](/articles/) page for the full collection, or jump into a recent post below:
+
+- [When ER Diagrams Outweighed Theory, and a B+ That Felt Genuinely Earned](/2026/06/08/post-12/)
+- [Starting Early, Studying Smarter, and Topping Section B in Database Systems](/2026/05/25/post-10/)
+- [My Stopwatch on Display, K-Maps on Slides, and Earthquakes in a Spreadsheet](/2026/05/11/post-9/)
+
+[See all articles →](/articles/)
+
+---
+
+Want to know more about me? Visit the [About Me](/about/) page. Want to get in touch? Head to [Contact](/contact/).
